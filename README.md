@@ -39,9 +39,9 @@ To choose a different port, use the --port flag:
 ```
 
 ## Most Educationally Enriching Feature
-Implementing the 30 second inactivity timeout using conn.SetReadDeadline and learning to detect and handle net.Error timeouts without crashing the server deepened my understanding of robust network I/O in Go.
+Implementing the 30 second inactivity timeout using ```conn.SetReadDeadline``` and learning to detect and handle ```net.Error``` timeouts without crashing the server deepened my understanding of robust network I/O in Go.
 
 ---
 
 ## Most Research‑Intensive Feature
-Setting up per‑client log files (<IP>.log) with concurrent writes taught me about safe file handling in goroutines and how to use log.New to create separate logger instances for each connection.
+Setting up per‑client log files (```<IP>.log```) with concurrent writes taught me about safe file handling in goroutines and how to use ```log.New``` to create separate logger instances for each connection.
