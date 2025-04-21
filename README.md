@@ -19,7 +19,7 @@ A concurrent, feature‑rich TCP echo server written in Go.
 ## Building
 
 ```bash
-git clone https://github.com/your‑username/tcp‑echo‑server.git
+git clone https://github.com/aoideee/Echo‑Server.git
 cd tcp‑echo‑server
 go build -o echo-server main.go
 ```
