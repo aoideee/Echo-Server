@@ -6,7 +6,7 @@ A concurrent, feature‑rich TCP echo server written in Go.
 
 ## Video
 
-<a href="https://youtu.be/esPqCw6msZg">Improved Echo Server</a>
+<a href="https://youtu.be/esPqCw6msZg" target="_blank">Improved Echo Server</a>
 
 ---
 
