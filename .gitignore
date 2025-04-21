@@ -3,20 +3,3 @@ echo-server
 
 # Per-client log files
 *.log
-
-# Go build artifacts (if you ever build elsewhere)
-*.exe
-*.dll
-*.so
-*.dylib
-
-# Dependency directories (if vendoring)
-vendor/
-
-# IDE / editor settings
-.vscode/
-.idea/
-*.swp
-
-# macOS Finder
-.DS_Store
